@@ -43,7 +43,7 @@
 
 #### Data:
 [<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
-[<img height="48px" width="48px" alt="Pandas Icon" src="[https://skillicons.dev/icons?i=pandas](https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png)"/>](https://pandas.pydata.org/)
+[<img height="48px" width="48px" alt="Pandas Icon" src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png)"/>](https://pandas.pydata.org/)
 [<img height="48px" width="48px" alt="NumPy Icon" src="https://skillicons.dev/icons?i=numpy"/>](https://numpy.org/)
 [<img height="48px" width="48px" alt="TensorFlow Icon" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
 [<img height="48px" width="48px" alt="Jupyter Icon" src="https://skillicons.dev/icons?i=jupyter"/>](https://jupyter.org/)
