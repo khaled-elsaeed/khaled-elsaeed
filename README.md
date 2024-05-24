@@ -17,35 +17,35 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Illustration">
 
 #### Software Engineering:
-[<img height="32px" width="32px" alt="C++ Icon" src="https://skillicons.dev/icons?i=cpp"/>](https://isocpp.org/)
-[<img height="32px" width="32px" alt="C# Icon" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[<img height="32px" width="32px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
-[<img height="32px" width="32px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img height="32px" width="32px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img height="32px" width="32px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img height="32px" width="32px" alt="React Icon" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+[<img height="48px" width="48px" alt="C++ Icon" src="https://skillicons.dev/icons?i=cpp"/>](https://isocpp.org/)
+[<img height="48px" width="48px" alt="C# Icon" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+[<img height="48px" width="48px" alt="HTML Icon" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img height="48px" width="48px" alt="CSS Icon" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="48px" width="48px" alt="JavaScript Icon" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="React Icon" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
 
 ##### Tools:
-[<img height="32px" width="32px" alt="Figma Icon" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
-[<img height="32px" width="32px" alt="VS Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-[<img height="32px" width="32px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="32px" width="32px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="48px" width="48px" alt="Figma Icon" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+[<img height="48px" width="48px" alt="VS Code Icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
+[<img height="48px" width="48px" alt="GitHub Icon" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Git Icon" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
 
 #### Database Administration:
-[<img height="32px" width="32px" alt="MySQL Icon" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
-[<img height="32px" width="32px" alt="MongoDB Icon" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
+[<img height="48px" width="48px" alt="MySQL Icon" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="MongoDB Icon" src="https://skillicons.dev/icons?i=mongodb"/>](https://www.mongodb.com/)
 
 #### Cloud Computing:
-[<img height="32px" width="32px" alt="AWS Icon" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com/)
-[<img height="32px" width="32px" alt="Azure Icon" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/)
-[<img height="32px" width="32px" alt="Google Cloud Icon" src="https://skillicons.dev/icons?i=gcp"/>](https://cloud.google.com/)
+[<img height="48px" width="48px" alt="AWS Icon" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com/)
+[<img height="48px" width="48px" alt="Azure Icon" src="https://skillicons.dev/icons?i=azure"/>](https://azure.microsoft.com/)
+[<img height="48px" width="48px" alt="Google Cloud Icon" src="https://skillicons.dev/icons?i=gcp"/>](https://cloud.google.com/)
 
 #### Data:
-[<img height="32px" width="32px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
-[<img height="32px" width="32px" alt="Pandas Icon" src="https://skillicons.dev/icons?i=pandas"/>](https://pandas.pydata.org/)
-[<img height="32px" width="32px" alt="NumPy Icon" src="https://skillicons.dev/icons?i=numpy"/>](https://numpy.org/)
-[<img height="32px" width="32px" alt="TensorFlow Icon" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
-[<img height="32px" width="32px" alt="Jupyter Icon" src="https://skillicons.dev/icons?i=jupyter"/>](https://jupyter.org/)
+[<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+[<img height="48px" width="48px" alt="Pandas Icon" src="https://skillicons.dev/icons?i=pandas"/>](https://pandas.pydata.org/)
+[<img height="48px" width="48px" alt="NumPy Icon" src="https://skillicons.dev/icons?i=numpy"/>](https://numpy.org/)
+[<img height="48px" width="48px" alt="TensorFlow Icon" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
+[<img height="48px" width="48px" alt="Jupyter Icon" src="https://skillicons.dev/icons?i=jupyter"/>](https://jupyter.org/)
 
 
 
