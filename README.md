@@ -44,7 +44,7 @@
 #### Data:
 [<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 [<img height="48px" width="44px" alt="Pandas Icon" src="https://pandas.pydata.org/static/img/pandas_mark_white.svg"/>](https://pandas.pydata.org/)
-[<img height="48px" width="48px" alt="NumPy Icon" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/>](https://numpy.org/)
+[<img height="70px" width="48px" alt="NumPy Icon" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/>](https://numpy.org/)
 [<img height="48px" width="48px" alt="TensorFlow Icon" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
 [<img height="48px" width="48px" alt="Jupyter Icon" src="https://skillicons.dev/icons?i=jupyter"/>](https://jupyter.org/)
 
