@@ -24,9 +24,15 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
- 
+
+
+#### Data:
+[<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>]
+[<img height="48px" width="48px" alt="Pandas Icon" src="https://skillicons.dev/icons?i=pandas"/>]
+[<img height="48px" width="48px" alt="NumPy Icon" src="https://skillicons.dev/icons?i=numpy"/>]
+[<img height="48px" width="48px" alt="TensorFlow Icon" src="https://skillicons.dev/icons?i=tensorflow"/>]
+[<img height="48px" width="48px" alt="Jupyter Icon" src="https://skillicons.dev/icons?i=jupyter"/>]
 
 
 #### Studying in this moment:
