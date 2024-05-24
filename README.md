@@ -18,13 +18,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Software Enginnering:
-  [<img height="48px" width="48px" alt="C++ Icon" src="https://skillicons.dev/icons?i=cpp"/>]
-  [<img height="48px" width="48px" alt="C# Icon" src="https://skillicons.dev/icons?i=cs"/>]
-  [<img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>]
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>]
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>]
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>]
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>]
+  <img height="48px" width="48px" alt="C++ Icon" src="https://skillicons.dev/icons?i=cpp"/>
+  <img height="48px" width="48px" alt="C# Icon" src="https://skillicons.dev/icons?i=cs"/>
+  <img height="48px" width="48px" alt="Python Icon" src="https://skillicons.dev/icons?i=python"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>
+  <img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>
 
 ##### Tools:
 
