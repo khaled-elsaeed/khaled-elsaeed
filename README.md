@@ -57,7 +57,7 @@ Got it, let's enhance both sections with SQL for databases and more tools for so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"/> &nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> &nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-line.svg" alt="Tableau" width="40" height="40"/> &nbsp;
+   <img src="https://www.svgrepo.com/show/354427/tableau.svg" alt="Tableau" width="40" height="40"/> &nbsp;
 
 </div>
 
