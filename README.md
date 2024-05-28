@@ -70,15 +70,14 @@ Got it, let's enhance both sections with SQL for databases and more tools for so
 ---
 
 ### 🌟 Favourite Repos:
-- 🙋‍♂️ <a href="https://github.com/Zerobrofan/react-portfolio" target = "_blank">Dorm App - admission & management</a>
-- 📚 <a href="https://github.com/Zerobrofan/StudyMe" target = "_blank">StudyMe - Course Management System</a>
-- 🎵 <a href="https://github.com/Zerobrofan/Musicly" target = "_blank">Musicly - Desktop Music Player</a>
-- 📏 <a href="https://github.com/Zerobrofan/Pocket-Ultrasonic-Range-Finder-Using-Arduino" target = "_blank">Pocket Ultrasonic Range Finder</a>
-- 🤖 <a href="https://github.com/Zerobrofan/Regular-Expression-Generator-Using-OpenAI" target = "_blank">Regular Expression Generator Using OpenAI</a>
-- 🌐 <a href="https://github.com/Zerobrofan/Static-Website-Hosting-Using-AWS-S3" target = "_blank">Static Website Hosting Using AWS S3</a>
-- 📙 <a href="https://github.com/Zerobrofan/Quotey-Inspirational-Quotes" target ="_blank"> Quotey - Inspirational Quotes</a>
-- 👟 <a href="https://github.com/Zerobrofan/SoleStyle-eCommerce-website/" target ="_blank"> SoleStyle - eCommerce website</a>
-- ⏲ <a href="https://github.com/Zerobrofan/Podomoro-Timer" target ="_blank"> Podomoro Timer - Timer Web App</a>
+- 🏠 [Dorm App](https://github.com/khaled-elsaeed/nmu-dorm-app): Admission & management made easy.
+- 📊 [DataVizPro](https://github.com/khaled-elsaeed/Statistics-Charts): Transform data into stunning charts.
+- 🕸️ [WebRankSpider](https://github.com/khaled-elsaeed/Page-Rank-Spidering): Efficient web page rank tracker.
+- 💪 [Fitness App](https://github.com/khaled-elsaeed/fitness-app): Achieve fitness goals with React.
+- 🏠 [Roommate Recommender](https://github.com/khaled-elsaeed/Roommate-Recommender): Smart roommate recommendations.
+- 🎬 [Netflix Movies Analysis](https://github.com/khaled-elsaeed/DataCamp/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office): Analyzing Netflix movies and The Office.
+- ⏲️ [Churn Prediction](https://github.com/khaled-elsaeed/Churn-Prediction): Predict and retain customers effectively.
+
 
 ---
 <div align="center">
