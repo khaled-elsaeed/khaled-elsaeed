@@ -54,7 +54,7 @@ I am a Software Engineer from Egypt.
 ---
 
 ### 🌟 Favourite Repos:
-- 🙋‍♂️ <a href="https://github.com/Zerobrofan/react-portfolio" target = "_blank">React Portfolio</a>
+- 🙋‍♂️ <a href="https://github.com/Zerobrofan/react-portfolio" target = "_blank">Dorm App - admission & management</a>
 - 📚 <a href="https://github.com/Zerobrofan/StudyMe" target = "_blank">StudyMe - Course Management System</a>
 - 🎵 <a href="https://github.com/Zerobrofan/Musicly" target = "_blank">Musicly - Desktop Music Player</a>
 - 📏 <a href="https://github.com/Zerobrofan/Pocket-Ultrasonic-Range-Finder-Using-Arduino" target = "_blank">Pocket Ultrasonic Range Finder</a>
@@ -67,7 +67,7 @@ I am a Software Engineer from Egypt.
 ---
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=transparent&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khaled-elsaeed&theme=transparent&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
   
 </div>
 
@@ -75,7 +75,7 @@ I am a Software Engineer from Egypt.
 
 ###  🦝 Check out my certifications & badges at:
 <div align="center">
-           <a href="https://www.credly.com/users/abdallah-amir/badges" target = "_blank">
+           <a href="https://www.credly.com/users/khaled-zahran.a08ae46e/badges" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png" width="200px" alt="Credly"/>
 </div>
 
@@ -83,22 +83,14 @@ I am a Software Engineer from Egypt.
 
 ###  🤙 How to reach me:
 <div id="badges" align="center">
-          <a href="https://www.linkedin.com/in/abdallah-amir/" target = "_blank">
+          <a href="https://www.linkedin.com/in/khaled-elsaeid-zahran/" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="50px" alt="LinkedIn"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="https://twitter.com/zerobrofan" target = "_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="50px" alt="Twitter"/>&nbsp;&nbsp;&nbsp;
-          </a>
-          <a href="https://github.com/Zerobrofan" target = "_blank">
+          <a href="https://github.com/khaled-elsaeed" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="50px" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord Badge" width="50px"/>&nbsp;&nbsp;&nbsp;
-          </a>
-          <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
+          <a href="mailto:khaled.elsaeidzahran2@gmail.com" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="Gmail" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="https://abdallahamir.com/" target = "_blank">
-            <img src="https://img.icons8.com/stickers/256/domain.png" alt="Website" width="55px"/>&nbsp;&nbsp;&nbsp;
-          </a>
+
 </div>
