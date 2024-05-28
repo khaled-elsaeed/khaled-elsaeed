@@ -4,40 +4,18 @@
           <a href="https://www.linkedin.com/in/abdallah-amir/" target = "_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
-          <a href="https://www.youtube.com/channel/UCQzq_-gjzOSIzNdQTZtsODg" target = "_top">
-            <img src="https://img.shields.io/badge/YouTube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-          </a>
-          <a href="https://twitter.com/zerobrofan" target = "_top">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-          </a>
-          <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
+          <a href="mailto:khaled.elsaeidzahran2@gmail.com" target = "_blank">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
           </a>
-        <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
-            <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-          </a>
-        <a href="https://abdallahamir.com/" target = "_blank">
-            <img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=notion&logoColor=white" alt="Website Badge"/>
-          </a>
     </div>
-    <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey!%2C+I'm+Khaled+Zahrab" alt="Typing SVG" /></a>
     </h1>
 </div>
 
 <div id="badges" align="center">
-          <a href="https://www.credly.com/badges/729ffdb7-1327-4c31-a96f-d6c006665e84/public_url" target = "_blank">
-            <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150px" alt="GitHub Foundations Badge"/>
-          </a>
-          <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url" target = "_blank">
-            <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="150px" alt="Azure Fundamentals Badge"/>
-          </a>
           <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150px" alt="AWS Cloud Practicioner Badge"/>
-          </a>
-          <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FE69CAC3FF27C55C919DB050ABFC4CD7023DE5C187E13DB23A8AD06B71118D14" target = "_blank">
-            <img src="https://github.com/Zerobrofan/Zerobrofan/assets/100843256/70a48128-7bd2-4fd4-8cf6-10ef964d6b31" width="150px" alt="OCI Foundations Associate"/>
           </a>
 </div>
 
