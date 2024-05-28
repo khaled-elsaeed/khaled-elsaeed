@@ -27,7 +27,7 @@ I am a Software Engineer from Egypt.
 
 - :seedling: I am a Junior at <a href="https://www.facebook.com/FCSENMUofficial" target = "_blank">Faculty of Computers Science & Engineering at New Mansoura University</a>.
 
-- :zap: In my free time, I study cloud architecture ☁️ and Python 🐍.
+- :zap: In my free time, I am passionate about data science 📊 and analytics 📈.
 
 ---
 
