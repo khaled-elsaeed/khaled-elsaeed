@@ -1,24 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200"/>
       <div id="badges">
-          <a href="https://www.linkedin.com/in/abdallah-amir/" target = "_blank">
+          <a href="https://www.linkedin.com/in/khaled-elsaeid-zahran/" target = "_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
           </a>
-          <a href="https://www.youtube.com/channel/UCQzq_-gjzOSIzNdQTZtsODg" target = "_top">
-            <img src="https://img.shields.io/badge/YouTube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-          </a>
-          <a href="https://twitter.com/zerobrofan" target = "_top">
-            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-          </a>
-          <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
+          <a href="mailto:khaled.elsaeidzahran@gmail.com" target = "_blank">
             <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
           </a>
-        <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
+        <a href="https://discordapp.com/users/1165320002371600518" target = "_blank">
             <img src="https://img.shields.io/badge/Discord-darkblue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
           </a>
-        <a href="https://abdallahamir.com/" target = "_blank">
+<!--         <a href="https://khaled.com/" target = "_blank">
             <img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=notion&logoColor=white" alt="Website Badge"/>
-          </a>
+          </a> -->
     </div>
     <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
