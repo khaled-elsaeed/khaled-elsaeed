@@ -16,7 +16,7 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
     <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey!%2C+I'm+Abdallah+Amir" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey!%2C+I'm+Khaled+El-Saeid+Zahran" alt="Typing SVG" /></a>
     </h1>
 </div>
 
@@ -24,8 +24,8 @@
           <a href="https://www.credly.com/badges/55aa4fdb-9c41-4c15-b6aa-0ef95547f166/public_url" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150px" alt="AWS Certified Solutions Architect Associate Badge"/>
           </a>
-          <a href="https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url" target = "_blank">
-            <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150px" alt="AWS Cloud Practicioner Badge"/>
+          <a href="[https://www.credly.com/badges/62116cfc-5b39-4698-a119-72e8cc6c0c79/public_url](https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg)" target = "_blank">
+            <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png](https://hrcdn.net/fcore/assets/badges/cpp-739b350881.svg" width="150px" alt="AWS Cloud Practicioner Badge"/>
           </a>
           <a href="https://www.credly.com/badges/729ffdb7-1327-4c31-a96f-d6c006665e84/public_url" target = "_blank">
             <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150px" alt="GitHub Foundations Badge"/>
