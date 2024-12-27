@@ -14,7 +14,7 @@
             <img src="https://img.shields.io/badge/Website-orange?style=for-the-badge&logo=notion&logoColor=white" alt="Website Badge"/>
           </a> -->
     </div>
-    <img src="https://komarev.com/ghpvc/?username=Zerobrofan&style=flat&color=2a9df4"/>
+    <img src="https://komarev.com/ghpvc/?username=khaled-elsaeed&style=flat&color=2a9df4"/>
     <h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey!%2C+I'm+Khaled+Zahran" alt="Typing SVG" /></a>
     </h1>
@@ -64,14 +64,6 @@ I am a Software Engineer from Egypt.
 - 🎵 <a href="https://github.com/khaled-elsaeed/Neural-Network-for-Admissions-Prediction" target ="_blank">AI-AdmissionPredict</a>
 
 
----
-<div align="center">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khaled-elsaeed&theme=transparent&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
-  
-</div>
-
----
 
 
 ---
