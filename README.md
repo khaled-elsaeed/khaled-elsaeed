@@ -55,51 +55,40 @@ I am a Software Engineer from Egypt.
 ---
 
 ### 🌟 Favourite Repos:
-- 📙 <a href="https://github.com/Zerobrofan/Quotey-Inspirational-Quotes" target ="_blank"> Quotey - Inspirational Quotes</a>
-- 🙋‍♂️ <a href="https://github.com/Zerobrofan/react-portfolio" target = "_blank">React Portfolio</a>
-- 📚 <a href="https://github.com/Zerobrofan/StudyMe" target = "_blank">StudyMe - Course Management System</a>
-- 🎵 <a href="https://github.com/Zerobrofan/Musicly" target = "_blank">Musicly - Desktop Music Player</a>
-- 📏 <a href="https://github.com/Zerobrofan/Pocket-Ultrasonic-Range-Finder-Using-Arduino" target = "_blank">Pocket Ultrasonic Range Finder</a>
-- 🤖 <a href="https://github.com/Zerobrofan/Regular-Expression-Generator-Using-OpenAI" target = "_blank">Regular Expression Generator Using OpenAI</a>
-- 🌐 <a href="https://github.com/Zerobrofan/Static-Website-Hosting-Using-AWS-S3" target = "_blank">Static Website Hosting Using AWS S3</a>
-- 👟 <a href="https://github.com/Zerobrofan/SoleStyle-eCommerce-website/" target ="_blank"> SoleStyle - eCommerce website</a>
-- ⏲ <a href="https://github.com/Zerobrofan/Podomoro-Timer" target ="_blank"> Podomoro Timer - Timer Web App</a>
+- 🏠 <a href="#" target ="_blank">NMU Housing</a> (Private Repo)
+- 📋 <a href="#" target ="_blank">NMU Questionnaire</a> (Private Repo)
+- 🗂 <a href="https://github.com/khaled-elsaeed/nmu-exam-lab-scheduler" target ="_blank">Exam Lab Scheduler System</a>
+- 📙 <a href="https://github.com/khaled-elsaeed/Roommate-Recommender" target ="_blank">Roommate Recommender System</a>
+- 🙋‍♂️ <a href="https://github.com/khaled-elsaeed/Page-Rank-Spidering" target ="_blank">CrawlRanker</a>
+- 📚 <a href="https://github.com/khaled-elsaeed/Statistics-Charts" target ="_blank">DataScope</a>
+- 🎵 <a href="https://github.com/khaled-elsaeed/Neural-Network-for-Admissions-Prediction" target ="_blank">AI-AdmissionPredict</a>
+
 
 ---
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zerobrofan&theme=transparent&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khaled-elsaeed&theme=transparent&hide_border=true&border_radius=8&mode=weekly)](https://git.io/streak-stats)
   
 </div>
 
 ---
 
-###  🦝 Check out my certifications & badges at:
-<div align="center">
-           <a href="https://www.credly.com/users/abdallah-amir/badges" target = "_blank">
-            <img src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" width="200px" alt="Credly"/>
-</div>
 
 ---
 
 ###  🤙 How to reach me:
 <div id="badges" align="center">
-          <a href="https://www.linkedin.com/in/abdallah-amir/" target = "_blank">
+          <a href="https://www.linkedin.com/in/khaled-elsaeid-zahran/" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png" width="50px" alt="LinkedIn"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="https://twitter.com/zerobrofan" target = "_blank">
-            <img src="https://cdn-icons-png.flaticon.com/512/3670/3670127.png" width="50px" alt="Twitter"/>&nbsp;&nbsp;&nbsp;
-          </a>
-          <a href="https://github.com/Zerobrofan" target = "_blank">
+          <a href="https://github.com/khaled-elsaeed" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/270/270798.png" width="50px" alt="GitHub"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="https://discordapp.com/users/317374309293359105" target = "_blank">
+          <a href="https://discordapp.com/users/1165320002371600518" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="Discord Badge" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="mailto:abdallahamirmonir@gmail.com" target = "_blank">
+          <a href="mailto:khaled.elsaeidzahran@gmail.com" target = "_blank">
             <img src="https://cdn-icons-png.flaticon.com/512/720/720277.png" alt="Gmail" width="50px"/>&nbsp;&nbsp;&nbsp;
           </a>
-          <a href="https://abdallahamir.com/" target = "_blank">
-            <img src="https://img.icons8.com/stickers/256/domain.png" alt="Website" width="55px"/>&nbsp;&nbsp;&nbsp;
-          </a>
+       
 </div>
